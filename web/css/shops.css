@@ -1,0 +1,55 @@
+.naved{
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    padding: 9px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    margin-top: 25px;
+    margin-bottom: 45px;
+}
+
+.naved:hover{
+    color: wheat;
+    background-color: #4CAF50;
+
+}
+
+.current{
+    background-color: #4CAF50;
+
+}
+
+
+
+.col-margin{
+    margin-right: 100px;
+    margin-bottom: 50px;    
+
+}
+
+.btn-size{
+    height: 50px;
+    width: 100px;
+}
+
+.bg { 
+    background-image: url("../imgs/bg2.jpg");
+
+    height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-style{
+    width: 275px;
+    border-width: 3px;
+    border-color:  #4CAF50;
+}
+
+
+
