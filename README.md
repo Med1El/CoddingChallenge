@@ -4,8 +4,8 @@ United Remote's Coding Challenge:
 
 Project architecture : 
 
-MySQL <=> Hibernate ORM <=> Data Access Layer(JPA) <=>  Struts2 Action <=> Struts2 Dispatcher (PrepareAndExecuteFilter) <=> JSP Pages
-                            |-------------------------------------------Models-----------------------------------------------------------|
+MySQL <=> Hibernate ORM <=> DAO(JPA) <=>  Struts2 Action <=> Struts2 Dispatcher <=> JSP Pages
+
 Developed using Netbeans IDE 8.2 / Glassfish Server 4.1.1
 
 How to properly reuse project after cloning : 
