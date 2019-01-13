@@ -2,7 +2,9 @@
 
 United Remote's Coding Challenge:
 
-Project architecture : MySQL <=> Hibernate/JPA <=> Struts2 Dispatcher (PrepareAndExecuteFilter) <=> Struts2 Action <=> JSP Pages
+Project architecture : 
+
+MySQL <=> Hibernate/JPA <=> Struts2 Dispatcher (PrepareAndExecuteFilter) <=> Struts2 Action <=> JSP Pages
 
 Developed using Netbeans IDE 8.2 / Glassfish Server 4.1.1
 
