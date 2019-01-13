@@ -4,7 +4,7 @@ United Remote's Coding Challenge:
 
 Project architecture : 
 
-MySQL <=> Hibernate ORM <=> DAO(JPA) <=>  Struts2 Action <=> Struts2 Dispatcher <=> JSP Pages
+MySQL <=> Hibernate ORM <=> DAO(JPA) <=>  Struts2 Action <=> Struts2 Dispatcher <=> JSP Pages (w/ JQuery and Ajax)
 
 Developed using Netbeans IDE 8.2 / Glassfish Server 4.1.1
 
