@@ -1,3 +1,5 @@
+"Talk is cheap. Show me the code." Linus Torvalds
+
 # CoddingChallenge
 
 United Remote's Coding Challenge:
